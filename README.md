@@ -3,7 +3,7 @@
 
 Where technology meets business.
 
-I work at the intersection of data, product, and decision-making. My focus is on using analytics, applied machine learning, and AI-enabled systems to evaluate performance, understand behavior, and support informed product and business decisions.
+I work at the intersection of data, product, and decision-making. My focus is on using analytics, applied machine learning, and AI-enabled systems to evaluate performance, understand behavior, and support better product and business decisions.
 
 I enjoy turning ambiguous problems into clear metrics and actionable insights.
 
