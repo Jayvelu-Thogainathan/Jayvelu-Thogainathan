@@ -1,16 +1,21 @@
-## Hi there 👋
+# Jayvelu Thogainathan
+Product Analyst | Product Owner  
+Business Analytics & Applied AI
 
-<!--
-**Jayvelu-Thogainathan/Jayvelu-Thogainathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of data, product, and decision-making. My focus is on using analytics, applied machine learning, and AI-enabled systems to evaluate performance, understand behavior, and support informed product and business decisions.
 
-Here are some ideas to get you started:
+I enjoy turning ambiguous problems into clear metrics and actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+- **Analytics:** Python (Pandas, NumPy), SQL
+- **Machine Learning:** scikit-learn, regression & model evaluation
+- **AI Systems:** OpenAI APIs, LangChain, Azure AI
+- **Visualization:** Power BI, Tableau
+- **Product:** Agile, Scrum, Jira
+
+## What You'll Find Here
+This GitHub space reflects how I explore problems — through analytical work, applied machine learning, and product-focused experiments that evolve over time.
+
+**Contact**  
+Email: jayvelu.thogainathan@gmail.com  
+LinkedIn: https://www.linkedin.com/in/jayvelu-thogainathan/
