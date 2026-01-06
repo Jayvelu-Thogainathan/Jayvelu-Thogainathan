@@ -1,6 +1,7 @@
-# Jayvelu Thogainathan
-Product Analyst | Product Owner  
-Business Analytics & Applied AI
+# Jayvelu Thogainathan 👋
+📊 Product Analyst | Product Owner | Business Analytics & Applied AI
+
+Where technology meets business.
 
 I work at the intersection of data, product, and decision-making. My focus is on using analytics, applied machine learning, and AI-enabled systems to evaluate performance, understand behavior, and support informed product and business decisions.
 
