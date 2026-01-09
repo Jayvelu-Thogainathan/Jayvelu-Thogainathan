@@ -1,5 +1,5 @@
 # Jayvelu Thogainathan 👋
-📊 Product Analyst | Product Owner | Business Analytics & Applied AI
+Product Analyst | Product Owner | Business Analytics & Applied AI
 
 Where technology meets business.
 
